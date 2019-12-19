@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 新·柳野御所
 
 You can use the [editor on GitHub](https://github.com/Drusus-Nero/yanaginocastle/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
